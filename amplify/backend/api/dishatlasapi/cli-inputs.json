@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/api": {
+      "name": "/api",
+      "lambdaFunction": "dishatlasaws352f7873",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
