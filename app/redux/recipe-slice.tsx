@@ -12,7 +12,7 @@ type initialState = {
 }
 const initialState = {
     recipes: [],
-    description: 'chuj',
+    description: 'foo',
     recipe: '',
     changed: false
 } as initialState
